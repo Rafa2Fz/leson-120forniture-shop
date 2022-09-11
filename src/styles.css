@@ -4,9 +4,14 @@
 
 *{
   box-sizing: border-box;
+  font-family: 'Coda', "Arial", cursive;
 }
 
 body {
   margin: 0px;
 }
 
+:root {
+  --primary-color: #af1a31;
+  --secondary-color: #565458;
+}
