@@ -1,0 +1,14 @@
+#products-section {
+  background-color: aqua;
+}
+#products-box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-card{
+  width: 300px;
+  height:400px;
+  border: 1px solid black;
+}
