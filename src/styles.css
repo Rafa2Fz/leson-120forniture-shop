@@ -14,4 +14,9 @@ body {
 :root {
   --primary-color: #af1a31;
   --secondary-color: #565458;
+
+  --xs: 350px;
+  --sm: 600px;
+  --md: 900px;
+  --lg: 1200;
 }

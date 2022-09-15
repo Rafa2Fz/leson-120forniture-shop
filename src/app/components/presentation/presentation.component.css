@@ -1,9 +1,9 @@
 #main-presentation{
-  height: 100%;
-}
-#primary-presentation img{
-  width: 100%;
-  height: 100%;
+  height: calc(100vh - 94px);
+  background-image: url('../../../assets/007.jpg');
+  background-position: right top;
   background-size: cover;
+  background-repeat: no-repeat;
+
 }
 

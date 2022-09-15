@@ -1,3 +1,5 @@
+
+
 #products-section {
   background-color: aqua;
 }
@@ -5,10 +7,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
 .product-card{
   width: 300px;
   height:400px;
   border: 1px solid black;
+}
+
+
+@media screen and (max-width: var(--xs)) {
+  #products-box {
+    background-color: black;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+  }
 }
