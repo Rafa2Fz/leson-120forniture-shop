@@ -15,8 +15,16 @@ body {
   --primary-color: #af1a31;
   --secondary-color: #565458;
 
-  --xs: 350px;
-  --sm: 600px;
-  --md: 900px;
-  --lg: 1200;
 }
+
+
+
+@media screen (max-width: 600) {
+
+}
+
+@media screen (min-width: 600px) and (max-width: 900) {
+
+}
+
+

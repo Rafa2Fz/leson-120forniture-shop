@@ -1,4 +1,10 @@
 
+#products-section {
+  --xs-columns: repeat(2, 1fr);
+  --sm-columns: repeat(2, 1fr);
+  --md-columns: repeat(3, 1fr);
+  --lg-columns: repeat(4, 1fr);
+}
 
 #products-section {
   background-color: aqua;
